@@ -13,3 +13,5 @@ Round Robin is used to fairly schedule the processes. A fixed amount of time, qu
 
 ### Reminder
 `process.txt` contains the process informaiton that will be used for the CPU Scheduling.
+
+This was made for a course subject.
