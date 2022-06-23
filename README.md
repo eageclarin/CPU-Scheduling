@@ -12,4 +12,4 @@ In Priority Scheduling, processes are executed according to their priority. The 
 Round Robin is used to fairly schedule the processes. A fixed amount of time, quantum, is provided for each process to execute. Once a process is executed for the given time period, it is moved to the end of the queue, and other processes executes for the same time quantum.
 
 ### Reminder
-`test.txt` contains the process informaiton that will be used for the CPU Scheduling.
+`process.txt` contains the process informaiton that will be used for the CPU Scheduling.
